@@ -1,6 +1,6 @@
 
 <div align="center">
-<h3><b>👋 JuHee Kim 👋</b></h3>
+<h3><b>👋 김주희 👋</b></h3>
 
 <H4>CONTACT</H4>
 
