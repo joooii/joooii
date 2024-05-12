@@ -7,9 +7,11 @@
 <a href="https://www.gmail.com/wngml3098/"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-sqared&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-sqared&logo=Instagram&logoColor=white"/></a>
 
-<H4>TOOLS</H4>
-<img src="https://img.shields.io/badge/Unity-000000?style=flat-sqared&logo=Unity&logoColor=white"/></a>
-
+<H4>TECH STACK</H4>
+<img src="https://img.shields.io/badge/HTML-000000?style=flat-sqared&logo=HTML5&logoColor=#E34F26"/></a>
+<img src="https://img.shields.io/badge/CSS-000000?style=flat-sqared&logo=CSS3&logoColor=#1572B6"/></a>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=flat-sqared&logo=JavaScript&logoColor=#F7DF1E"/></a>
+<img src="https://img.shields.io/badge/Unity-000000?style=flat-sqared&logo=Unity&logoColor=#ffffff"/></a>
 
 <H4>VISIT</H4>
 
