@@ -1,11 +1,9 @@
 
 <div align="center">
-<h3><b>👋 김주희 👋</b></h3>
 
 <H4>CONTACT</H4>
 
 <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=wngml3098@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-sqared&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-sqared&logo=Instagram&logoColor=white"/></a>
 
 <H4>TECH STACK</H4>
 <img src="https://img.shields.io/badge/HTML-000000?style=flat-sqared&logo=HTML5&logoColor=#E34F26"/></a>
