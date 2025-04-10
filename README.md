@@ -13,8 +13,3 @@
 <img src="https://img.shields.io/badge/ReactNative-000000?style=flat-sqared&logo=React&logoColor=#ffffff"/></a></br>
 <img src="https://img.shields.io/badge/Vue.js-000000?style=flat-sqared&logo=Vue.js&logoColor=#ffffff"/></a>
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-sqared&logo=Unity&logoColor=#ffffff"/></a>
-
-
-<H4>VISIT</H4>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoooii&count_bg=%23DDA94B&title_bg=%231E4174&icon=apple.svg&icon_color=%23E7E7E7&title=joooii&edge_flat=false)](https://hits.seeyoufarm.com)
