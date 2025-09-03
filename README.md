@@ -12,5 +12,4 @@
 <img src="https://img.shields.io/badge/React-000000?style=flat-sqared&logo=React&logoColor=#ffffff"/></a>
 <img src="https://img.shields.io/badge/ReactNative-000000?style=flat-sqared&logo=React&logoColor=#ffffff"/></a></br>
 <img src="https://img.shields.io/badge/Next-000000?style=flat-sqared&logo=Next.js&logoColor=#ffffff"/></a>
-<img src="https://img.shields.io/badge/Vue.js-000000?style=flat-sqared&logo=Vue.js&logoColor=#ffffff"/></a>
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-sqared&logo=Unity&logoColor=#ffffff"/></a>
