@@ -13,3 +13,15 @@
 <img src="https://img.shields.io/badge/ReactNative-000000?style=flat-sqared&logo=React&logoColor=#ffffff"/></a></br>
 <img src="https://img.shields.io/badge/Next-000000?style=flat-sqared&logo=Next.js&logoColor=#ffffff"/></a>
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-sqared&logo=Unity&logoColor=#ffffff"/></a>
+
+
+
+<H4>URECA</H4>
+<a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/751688718990810619/draw"
+        width="600"
+        height="300"
+        alt="gitanimals"
+      />
+</a>
