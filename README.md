@@ -29,7 +29,7 @@
 <br>
 
 ### 🏝️ Stats 🏝️
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wngml3098)](https://solved.ac/wngml3098/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wngml3098)](https://solved.ac/profile/wngml3098/)
 <br/>
 <img src="https://github-readme-stats.vercel.app/api?username=joooii&show_icons=true&theme=buefy&hide_border=true&bg_color=FFFFF&icon_color=88cf88&text_color=2F4F4F&title_color=88cf88&count_private=true" />
 </div>
