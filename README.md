@@ -8,7 +8,6 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:wngml3098@gmail.com)
 [![Tistory Badge](https://img.shields.io/badge/Tistory-orange?style=flat-square&logo=Tistory&logoColor=white)](https://joooii.tistory.com)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/jooo_ii)
 
 <br/>
 
