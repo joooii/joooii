@@ -7,7 +7,10 @@
 ### 📮 Contact Me 📮
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:wngml3098@gmail.com)
+[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@jooo_ii/posts)
 [![Tistory Badge](https://img.shields.io/badge/Tistory-orange?style=flat-square&logo=Tistory&logoColor=white)](https://joooii.tistory.com)
+
+
 
 <br/>
 
