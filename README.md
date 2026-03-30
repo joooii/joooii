@@ -28,7 +28,4 @@
 </p>
 <br>
 
-### 🏝️ Stats 🏝️
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wngml3098)](https://solved.ac/profile/wngml3098/)
-<br/>
 </div>
