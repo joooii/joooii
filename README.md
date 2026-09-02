@@ -6,6 +6,7 @@
       
 ### 📮 Contact Me 📮
 
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-2563EB?style=flat-square)](https://joooii.cloud)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=wngml3098@gmail.com)
 [![Tistory Badge](https://img.shields.io/badge/Tistory-orange?style=flat-square&logo=Tistory&logoColor=white)](https://joooii.tistory.com)
 
